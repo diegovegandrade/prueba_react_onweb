@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Welcome to React</h2>
         </div>
        <h1>
-         React Application Dvega.
+         React Application Dvega_2
        </h1>
       </div>
     );
